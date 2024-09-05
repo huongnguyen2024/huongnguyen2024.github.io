@@ -24,13 +24,13 @@
   (https://www.getty.edu/research/publications/electronic_
   publications/intrometadata/index.html)
 
-  - I have been impressed and curious about the term "meta" as it describes something
-    indefinite. Finding this book has a title "Metadata" makes me want to learn more
-    about it to get to a nice introduction about what "meta" really means. What I have
-    known about metadata is to describe tremendous amount of information being collected
-    from human's activities through social media networks. The introduction of this book
-    explaining about they will discuss in each chapter really inspires me to connect metadata
-    with real life experiences and activities that most of us are living in. 
+- I have been impressed and curious about the term "meta" as it describes something
+  indefinite. Finding this book has a title "Metadata" makes me want to learn more
+  about it to get to a nice introduction about what "meta" really means. What I have
+  known about metadata is to describe tremendous amount of information being collected
+  from human's activities through social media networks. The introduction of this book
+  explaining about they will discuss in each chapter really inspires me to connect metadata
+  with real life experiences and activities that most of us are living in. 
  	
 
 
