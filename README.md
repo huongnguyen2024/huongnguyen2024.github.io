@@ -18,7 +18,7 @@
   multiple countries, but with different datasets in each country, different analytics
   to get meaningful insights and tailor efficient plans to execute.
 
-  **Data Science Book**
+**Data Science Book**
 
   [Introduction to Metadata by Murtha Baca]
   (https://www.getty.edu/research/publications/electronic_
