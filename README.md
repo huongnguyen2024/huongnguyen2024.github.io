@@ -21,8 +21,7 @@
 **Data Science Book**
 
   [Introduction to Metadata by Murtha Baca]
-  (https://www.getty.edu/research/publications/electronic_
-  publications/intrometadata/index.html)
+  (https://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html)
 
 - I have been impressed and curious about the term "meta" as it describes something
   indefinite. Finding this book has a title "Metadata" makes me want to learn more
